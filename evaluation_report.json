@@ -1,0 +1,100 @@
+{
+  "total_test_cases": 11,
+  "executed": 11,
+  "skipped": 0,
+  "errors": 0,
+  "answer_checks_passed": 11,
+  "answer_checks_total": 11,
+  "retrieval_checks_passed": 8,
+  "retrieval_checks_total": 8,
+  "results": [
+    {
+      "id": "EH-01",
+      "status": "PASS",
+      "retrieval_pass": true,
+      "answer_pass": true,
+      "answer": "Employees are entitled to 18 days of annual leave per calendar year.",
+      "retrieved_count": 3
+    },
+    {
+      "id": "EH-02",
+      "status": "PASS",
+      "retrieval_pass": true,
+      "answer_pass": true,
+      "answer": "According to the document, planned leave should be requested at least 7 days before the intended leave date.",
+      "retrieved_count": 3
+    },
+    {
+      "id": "EH-03",
+      "status": "PASS",
+      "retrieval_pass": true,
+      "answer_pass": true,
+      "answer": "Employees can work from home up to 2 days per week.",
+      "retrieved_count": 3
+    },
+    {
+      "id": "EH-04",
+      "status": "PASS",
+      "retrieval_pass": null,
+      "answer_pass": true,
+      "answer": "I could not find this information in the document.",
+      "retrieved_count": 2
+    },
+    {
+      "id": "EH-05",
+      "status": "PASS",
+      "retrieval_pass": null,
+      "answer_pass": true,
+      "answer": "I could not find this information in the document.",
+      "retrieved_count": 3
+    },
+    {
+      "id": "IT-01",
+      "status": "PASS",
+      "retrieval_pass": true,
+      "answer_pass": true,
+      "answer": "According to the document, the minimum password length is 12 characters.",
+      "retrieved_count": 1
+    },
+    {
+      "id": "IT-02",
+      "status": "PASS",
+      "retrieval_pass": true,
+      "answer_pass": true,
+      "answer": "Passwords must be changed every 90 days.",
+      "retrieved_count": 2
+    },
+    {
+      "id": "IT-03",
+      "status": "PASS",
+      "retrieval_pass": true,
+      "answer_pass": true,
+      "answer": "Critical business data must be backed up every 24 hours.",
+      "retrieved_count": 2
+    },
+    {
+      "id": "IT-04",
+      "status": "PASS",
+      "retrieval_pass": true,
+      "answer_pass": true,
+      "answer": "Backup copies must be retained for 30 days.",
+      "retrieved_count": 2
+    },
+    {
+      "id": "IT-05",
+      "status": "PASS",
+      "retrieval_pass": true,
+      "answer_pass": true,
+      "answer": "Within 1 hour.",
+      "retrieved_count": 2
+    },
+    {
+      "id": "IT-06",
+      "status": "PASS",
+      "retrieval_pass": null,
+      "answer_pass": true,
+      "answer": "I could not find relevant information in the document.",
+      "retrieved_count": 0
+    }
+  ]
+}

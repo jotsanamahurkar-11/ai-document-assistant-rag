@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Uploaded documents
+data/uploads/
+
+# Operating system files
+.DS_Store
+Thumbs.db
