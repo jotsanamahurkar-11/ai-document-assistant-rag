@@ -2,8 +2,7 @@
 
 A document question-answering application built with Retrieval-Augmented Generation (RAG).
 
-Users can upload PDF documents, ask questions in natural language, and receive answers grounded in retrieved document passages.
-
+The application enables users to upload PDF documents, ask questions in natural language, and receive answers generated from relevant passages retrieved from those documents.
 The application runs locally using Ollama, so it does not require a paid LLM API.
 
 ## Features
